@@ -1,3 +1,4 @@
+Learned how to create and navigate more complicated Django Applications.
 # URLy Bird
 
 ## Description
